@@ -25,23 +25,6 @@
 </head>
 <body style="font-family: Arial; text-align: center; padding: 40px;">
     <h1>Obrigado pela sua compra!</h1>
-    <p>Estamos organizando tudo por aqui...</p>
-    <h3>Você será redirecionado em alguns instantes.</h3>
 
-    <div style="
-        width: 60px; 
-        height: 60px; 
-        border: 6px solid #ddd; 
-        border-top-color: #4a6eff; 
-        border-radius: 50%; 
-        margin: 25px auto;
-        animation: spin 1s linear infinite;">
-    </div>
-
-    <style>
-    @keyframes spin {
-        to { transform: rotate(360deg); }
-    }
-    </style>
 </body>
 </html>
